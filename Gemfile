@@ -30,6 +30,7 @@ gem "figaro", ">= 0.6.3"
 gem 'factory_girl_rails', :require => false #don't require because of http://goo.gl/kgnKz
 gem "active_model_serializers", "~> 0.8.0"
 gem "backbone-on-rails"
+gem "compass"
 
 # Gems used only for assets and not required
 # in production environments by default.
