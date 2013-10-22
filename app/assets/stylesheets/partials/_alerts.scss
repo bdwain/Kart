@@ -1,0 +1,19 @@
+.alert-error, #error_explanation {
+	color: #b94a48;
+	border: 1px solid #eed3d7;
+	border-radius: 3px;
+	background-color: #f2dede;
+	padding: 10px;
+	margin-bottom: 20px;
+	h2 {
+		font-size: 1.2em;
+		font-weight: bold;
+	}
+}
+.alert-error button {
+	display: none;
+}
+.field_with_errors input {
+	border: 2px solid #eed3d7;
+	color: #b94a48;
+}
