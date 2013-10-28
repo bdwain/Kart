@@ -15,3 +15,4 @@
 //= require twitter/bootstrap
 //= require bootstrap
 //= require rails_constants
+//= require main.js
